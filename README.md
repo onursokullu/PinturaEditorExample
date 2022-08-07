@@ -1,0 +1,2 @@
+# PinturaEditorExample
+Created with CodeSandbox
